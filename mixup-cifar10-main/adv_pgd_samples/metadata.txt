@@ -1,0 +1,5 @@
+True: 8, Adv: 3, Path: ./adv_pgd_samples/adv_8to3_0.png
+True: 8, Adv: 3, Path: ./adv_pgd_samples/adv_8to3_1.png
+True: 8, Adv: 3, Path: ./adv_pgd_samples/adv_8to3_2.png
+True: 8, Adv: 3, Path: ./adv_pgd_samples/adv_8to3_3.png
+True: 8, Adv: 3, Path: ./adv_pgd_samples/adv_8to3_4.png
