@@ -1,3 +1,2 @@
-*.lib filter=1fs diff=1fs merge=1fs -text
-*.dll filter=1fs diff=1fs merge=1fs -text
-*.tar.gz filter=1fs diff=1fs merge=1fs -text
+*/*
+!/mixup-cifar10-main/
