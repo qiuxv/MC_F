@@ -1,0 +1,29 @@
+[33mcommit 05000ce565ba05ba73ce06613271fb29b76cd5fd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: qiuxv <3214672371@qq.com>
+Date:   Sun Feb 9 21:42:36 2025 +0800
+
+    Correct Git LFS configuration in .gitattributes
+
+[33mcommit f6c02a55df569f089964938081fa9ba9a0dd308a[m
+Author: qiuxv <3214672371@qq.com>
+Date:   Sun Feb 9 21:18:47 2025 +0800
+
+    Fix .gitattributes configuration
+
+[33mcommit 8b4d01782d1f529d21644e7d7dad220940b1faa4[m
+Author: qiuxv <3214672371@qq.com>
+Date:   Sun Feb 9 20:05:24 2025 +0800
+
+    Add large files to LFS
+
+[33mcommit 1ec9a2487167d0d5a9adea14449727f851842ec1[m
+Author: qiuxv <3214672371@qq.com>
+Date:   Sun Feb 9 01:33:46 2025 +0800
+
+    删除目录 data
+
+[33mcommit 1735e7cfa8765e83fee5d8327d0cc3922c30843c[m[33m ([m[1;32mmaster[m[33m)[m
+Author: qiuxv <3214672371@qq.com>
+Date:   Sat Feb 8 23:24:06 2025 +0800
+
+    Initial commit
